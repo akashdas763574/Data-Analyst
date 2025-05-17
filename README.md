@@ -1,2 +1,1 @@
-# quiz-game
-This ia a quiz game based on entertainment purpose
+This repository contain all the projects and their code I have made
